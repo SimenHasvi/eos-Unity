@@ -8,6 +8,8 @@ To build the plugin you first need to clone the eos repository (remember to use 
 
 The demo program shows fitting for both shape and texture, as well as real-time blendshape fitting. It uses custom blendshapes for better expressions. It uses [Dlib FaceLandmark Detector](https://assetstore.unity.com/packages/tools/integration/dlib-facelandmark-detector-64314) for the landmark detection, which you need to buy yourself of find an alternative. This demo also contains some functionality which I added myself, such as better textures.
 
+<img title="" src="media/demo.gif" alt="demo" data-align="center" width="544">
+
 Please be reminded that the eos library and the Surrey Face Model is not made by me so make sure you have a look at the licence at their github page before you use it.
 
 Source for eos and SFM: (github page [here](https://github.com/patrikhuber/eos/tree/master/include/eos))
